@@ -70,13 +70,13 @@ Here are some ideas to get you started:
 </p>
 
 ## **Wanna know more about me or want to have a talk?** 
-**Send me an email** : sibashishpatnaik123.com
+**Send me an email** : sibashishpatnaik123@gmail.com
 
-## **GitHub Trophies :**
+## **GitHub Stats :**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="center">
-<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=Jiganesh&rank=SSS,SS,S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="Jiganesh"/></a>
+<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=sibashish16&rank=SSS,SS,S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="sibashish16"/></a>
 </p>
 
 
@@ -85,22 +85,22 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://github.com/Jiganesh" title="Redirect's to Jiganesh's Github">
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=Jiganesh&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+<a href="https://github.com/sibashish16" title="Redirect's to Jiganesh's Github">
+<img width="46%" src="https://github-readme-stats.vercel.app/api?username=sibashish16&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
-<a href="https://github.com/Jiganesh">
+<a href="https://github.com/sibashish16">
 <img width= "49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark&theme=black-ice&stroke=0000" /></a>
 
-<a href ="https://github.com/Jiganesh" title="Redirect's to Jiganesh Github">
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jiganesh&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
+<a href ="https://github.com/sibashish16" title="Redirect's to Jiganesh Github">
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibashish16&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
 <a href="https://github.com/Jiganesh/High-On-DSA" title="Redirect's to High On DSA Repository">
 <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiganesh&repo=leetcode&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
-<a href="https://github.com/Jiganesh" title="Redirects to github page">
+<a href="https://github.com/sibashish16" title="Redirects to github page">
 <img width="53%" src="https://leetcard.jacoblin.cool/sibashish16" /></a>
 
-<a href="https://github.com/Jiganesh" title="Redirects to github page">
+<a href="https://github.com/sibashish16" title="Redirects to github page">
 <img width="42%" src="https://www.chess.com/share/user/sibashish16" /></a>
 
 </p>
@@ -112,6 +112,6 @@ Here are some ideas to get you started:
 
 <div align =center>
 
-[![Jiganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiganesh&custom_title=Jiganesh's%20Activity&hide_border=true&theme=react-dark)](https://github.com/jiganesh/github-readme-activity-graph)
+[![Jiganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sibashish16&custom_title=Sibashish's%20Activity&hide_border=true&theme=react-dark)](https://github.com/sibashish16/github-readme-activity-graph)
 
 </div>
