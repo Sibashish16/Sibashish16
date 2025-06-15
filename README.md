@@ -98,10 +98,10 @@ Here are some ideas to get you started:
 <img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jiganesh&repo=leetcode&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
 <a href="https://github.com/Jiganesh" title="Redirects to github page">
-<img width="53%" src="https://leetcard.jacoblin.cool/Jiganesh" /></a>
+<img width="53%" src="https://leetcard.jacoblin.cool/sibashish16" /></a>
 
 <a href="https://github.com/Jiganesh" title="Redirects to github page">
-<img width="42%" src="https://www.chess.com/share/user/patiljiganesh" /></a>
+<img width="42%" src="https://www.chess.com/share/user/sibashish16" /></a>
 
 </p>
 
@@ -115,6 +115,3 @@ Here are some ideas to get you started:
 [![Jiganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiganesh&custom_title=Jiganesh's%20Activity&hide_border=true&theme=react-dark)](https://github.com/jiganesh/github-readme-activity-graph)
 
 </div>
-
-
-<img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%>
