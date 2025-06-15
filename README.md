@@ -9,8 +9,6 @@
 
 <!--
 **sibashish16/sibashish16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Here are some ideas to get you started:
 -->
 
@@ -41,19 +39,12 @@ Here are some ideas to get you started:
 </a>
 
 
-
-
 # **About me** :
 
 - I dig up 🕵️‍♀️real-world problems🌍and **find solutions** for them.
 - I 😍love to **create and modify new products** and **projects**👨‍💻.
 - I focus on my **problem-solving skill** and trend awareness🕵️‍♀️.
 - Always excited and ready to **learn new skills👨‍🎓**.
-
-<!-- Heruko Application Error - Contribution Graph
-[![Jiganesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jiganesh&theme=xcode&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/Jiganesh)
- -->
-
 
 ## **Languages and Tools**<!-- https://github.com/Ileriayo/markdown-badges -->
 <p>
@@ -76,16 +67,10 @@ Here are some ideas to get you started:
 
 <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="35px" height="35px">
 
-<img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" width="35px" height="35px">
-
 </p>
 
-## **Wanna know more about me?** 
-**Send me an email** : jpatil0107@gmail.com
-
-<a href="https://jiganesh.sayout.net/">
-	<img src= "https://img.shields.io/badge/Send Anonymous Messages-664E6B?style=for-the-badge&logo=googlemessages&logoColor=white">
-</a>
+## **Wanna know more about me or want to have a talk?** 
+**Send me an email** : sibashishpatnaik123.com
 
 ## **GitHub Trophies :**
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
@@ -133,20 +118,3 @@ Here are some ideas to get you started:
 
 
 <img src="https://github.com/Jiganesh/Jiganesh/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width = 100%>
-
-
-
-
-<!--Future Improvements
-
-
-<p align="center">
-	<a href="https://ekramasif.github.io/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/ekramasif" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ekramasif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/ekram.asif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/ekram_asif/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:mdekramuddin23@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-</p>
-
--->
