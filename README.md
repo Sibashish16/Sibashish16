@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=1976D2&width=435&lines=%3CHello+World%2C+Sibashish+here!%2F%3E)](https://git.io/typing-svg)
 
 <!-- Followers -->
-![GitHub followers](https://img.shields.io/github/followers/Jiganesh?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=jiganesh&label=PROFILE VIEWS  &color=red&style=flat" alt="jiganesh"/>
+![GitHub followers](https://img.shields.io/github/followers/sibashish16?style=flat&label=FOLLOWERS) <img src="https://komarev.com/ghpvc/?username=sibashish16&label=PROFILE VIEWS  &color=red&style=flat" alt="sibashish"/>
 
 <!--
 **Jiganesh/Jiganesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
