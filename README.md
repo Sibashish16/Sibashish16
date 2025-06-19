@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 👨‍💻 I’m currently working on my **Full Stack Development Skills**.
-- 🤯 I’m currently learning advanced **Architectures**
+- 🤯 I’m currently learning **Data Structures amd Algorithms**
 - 🤩 I’m looking to collaborate on **Web Development** Projects
 - 👨‍🏭 **2026 B.Tech Graduate** and **Software Developer** 
 
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
 <p align="center">
-<a href="https://github.com/Jiganesh"><img src="https://github-profile-trophy.vercel.app/?username=sibashish16&rank=SSS,SS,S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="sibashish16"/></a>
+<a href="https://github.com/sibashish16"><img src="https://github-profile-trophy.vercel.app/?username=sibashish16&rank=SSS,SS,S,A,AA,AAA,SECRET,B,C&row=1&theme=flat&no-frame=true" alt="sibashish16"/></a>
 </p>
 
 
@@ -83,13 +83,13 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-<a href="https://github.com/sibashish16" title="Redirect's to Jiganesh's Github">
+<a href="https://github.com/sibashish16" title="Redirect's to Sibashish's Github">
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=sibashish16&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
 <a href="https://github.com/sibashish16">
-<img width= "49%" title="Redirect's to Jiganesh Github" src="https://github-readme-streak-stats.herokuapp.com/?user=Jiganesh&theme=dark&theme=black-ice&stroke=0000" /></a>
+<img width= "49%" title="Redirect's to Sibashish Github" src="https://github-readme-streak-stats.herokuapp.com/?user=sibashish16&theme=dark&theme=black-ice&stroke=0000" /></a>
 
-<a href ="https://github.com/sibashish16" title="Redirect's to Jiganesh Github">
+<a href ="https://github.com/sibashish16" title="Redirect's to Sibashish Github">
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibashish16&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
 <a href="https://github.com/Jiganesh/High-On-DSA" title="Redirect's to High On DSA Repository">
