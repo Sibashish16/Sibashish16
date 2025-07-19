@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibashish16&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
 
 <a href="https://github.com/Sibashish16/DSA-Grind" title="Redirect's to DSA Grind Repository">
-<img width="56%" src="https://github-readme-stats.vercel.app/api/pin/?username=sibashish16&repo=DSA-Grind&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
+<img width="46%" src="https://github-readme-stats.vercel.app/api/pin/?username=sibashish16&repo=DSA-Grind&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
 <a href="https://github.com/sibashish16" title="Redirects to github page">
 <img width="53%" src="https://leetcard.jacoblin.cool/sibashish16" /></a>
