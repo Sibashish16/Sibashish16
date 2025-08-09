@@ -86,14 +86,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/sibashish16" title="Redirect's to Sibashish's Github">
 <img width="46%" src="https://github-readme-stats.vercel.app/api?username=sibashish16&show_icons=true&theme=dark&count_private=true&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
   
-<a href="https://github.com/sibashish16">
-<img width= "49%" title="Redirect's to Sibashish Github" src="https://github-readme-streak-stats.herokuapp.com/?user=sibashish16&theme=dark&theme=black-ice&stroke=0000" /></a>
-
 <a href ="https://github.com/sibashish16" title="Redirect's to Sibashish Github">
 <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibashish16&layout=compact&theme=dark&langs_count=6&count_private=false&text_color=d3d3d3&title_color=00E6FE"/></a>
-
-<a href="https://github.com/Sibashish16/DSA-Grind" title="Redirect's to DSA Grind Repository">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=sibashish16&repo=DSA-Grind&theme=dark&text_color=d3d3d3&icon_color=00E6FE&title_color=00E6FE" /></a>
 
 <a href="https://github.com/sibashish16" title="Redirects to github page">
 <img width="53%" src="https://leetcard.jacoblin.cool/sibashish16" /></a>
@@ -110,6 +104,6 @@ Here are some ideas to get you started:
 
 <div align =center>
 
-[![Jiganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sibashish16&custom_title=Sibashish's%20Activity&hide_border=true&theme=react-dark)](https://github.com/sibashish16/github-readme-activity-graph)
+[![Sibashish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sibashish16&custom_title=Sibashish's%20Activity&hide_border=true&theme=react-dark)](https://github.com/sibashish16/github-readme-activity-graph)
 
 </div>
